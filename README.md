@@ -1,4 +1,5 @@
 # my-first-nuxt-app
+Pages, routing and views
 
 ## Build Setup
 
